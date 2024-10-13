@@ -1,4 +1,4 @@
-![Header Image](https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yOTYtbmluZy0wOC1sLmpwZw.jpg)
+![Header Image](https://www.springfieldlibrary.org/library/assets/2022/05/SA-Coding-Club-Header.png)
 <h1 align="center">Hi 👋, I'm Kriti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg">
