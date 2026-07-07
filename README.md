@@ -131,11 +131,11 @@ I am a Computer Science undergraduate at **Bennett University** (CGPA: **9.02/10
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kriti768/kriti768/output/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" width="400" />
-  <img src="https://raw.githubusercontent.com/kriti768/kriti768/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages" width="300" />
+  <img src="https://raw.githubusercontent.com/kriti768/kriti768/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" width="400" />
+  <img src="https://raw.githubusercontent.com/kriti768/kriti768/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages" width="300" />
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kriti768/kriti768/output/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="710" />
+  <img src="https://raw.githubusercontent.com/kriti768/kriti768/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="710" />
 </div>
 
 ---
