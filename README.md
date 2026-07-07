@@ -76,6 +76,22 @@ I am a Computer Science undergraduate at **Bennett University** (CGPA: **9.02/10
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Machine Learning & AI Engineering</h4>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gymnasium-231F20?style=flat-square&logo=openai&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏗️ Architecture & Core Tooling</h4>
+      <img src="https://img.shields.io/badge/gRPC-00ADD8?style=flat-square&logo=grpc&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux_Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microservices-0052CC?style=flat-square&logo=kubernetes&logoColor=white" />
+    </td>
+  </tr>
 </table>
 
 ---
@@ -124,8 +140,7 @@ I am a Computer Science undergraduate at **Bennett University** (CGPA: **9.02/10
 ## 📈 GitHub Metrics
 
 <div align="center">
-  <!-- Contribution Snake Animation -->
-  <img src="https://raw.githubusercontent.com/kriti768/kriti768/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="800" />
+  <img src="https://raw.githubusercontent.com/kriti768/kriti768/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Profile Details" width="710" />
 </div>
 
 <br />
