@@ -16,7 +16,7 @@
 
   <!-- Visitor Counter & Dynamic Social Proof Badges -->
   <p align="center">
-    <img src="https://komarev.com/normal-badge.png?key=kriti768&style=flat-square&label=VISITORS&color=7aa2f7" alt="Visitor Count" />
+    <img src="https://komarev.com/ghpvc/?username=kriti768&color=7aa2f7&style=flat-square&label=VISITORS" alt="Visitor Count" />
     <a href="https://linkedin.com/in/kriti-bhardwaj-0a9a61334"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:kritibhardwaj1920@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://leetcode.com/u/Blue123-67"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
@@ -132,11 +132,11 @@ I am a Computer Science undergraduate at **Bennett University** (CGPA: **9.02/10
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kriti768&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriti768&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
+  <img src="https://raw.githubusercontent.com/kriti768/kriti768/output/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" width="400" />
+  <img src="https://raw.githubusercontent.com/kriti768/kriti768/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages" width="300" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kriti768&theme=tokyonight" alt="GitHub Streak" width="710" />
+  <img src="https://raw.githubusercontent.com/kriti768/kriti768/output/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="710" />
 </div>
 
 ---
