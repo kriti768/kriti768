@@ -33,7 +33,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          username: ${{ github.repository_owner }}
+          USERNAME: ${{ github.repository_owner }}
           theme: tokyonight
 
       - name: Move profile summary cards to dist

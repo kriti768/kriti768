@@ -16,7 +16,6 @@
 
   <!-- Visitor Counter & Dynamic Social Proof Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=kriti768&color=7aa2f7&style=flat-square&label=VISITORS" alt="Visitor Count" />
     <a href="https://linkedin.com/in/kriti-bhardwaj-0a9a61334"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:kritibhardwaj1920@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://leetcode.com/u/Blue123-67"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
