@@ -140,8 +140,8 @@ I am a Computer Science undergraduate at **Bennett University** (CGPA: **9.02/10
 ## 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=kriti768&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=kriti768&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=kriti768&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=kriti768&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kriti768&theme=tokyonight" alt="GitHub Streak" width="710" />
