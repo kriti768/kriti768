@@ -125,21 +125,18 @@ I am a Computer Science undergraduate at **Bennett University** (CGPA: **9.02/10
 ## 📈 GitHub Metrics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=kriti768&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriti768&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kriti768&theme=tokyonight" alt="GitHub Streak" width="760" />
-      </td>
-    </tr>
-  </table>
+  <!-- Contribution Snake Animation -->
+  <img src="https://raw.githubusercontent.com/kriti768/kriti768/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="800" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kriti768&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriti768&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kriti768&theme=tokyonight" alt="GitHub Streak" width="710" />
 </div>
 
 ---
